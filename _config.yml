@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yifei Xia - Homepage"
 title_separator          : "-"
 name                     : &name "Yifei Xia"
-description              : &description "Yifei Xia's academic homepage"
+description              : &description "Yifei Xia's homepage. Ph.D. student at Peking University, DAIR Lab, researching AI infrastructure, DiT inference and serving, and LLM inference and serving."
 url                      : https://YiFei1532.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ author:
   bio              : "Ph.D. student researching AI infrastructure at Peking University"
   location         : "Beijing, China"
   employer         : "Peking University"
-  uri              : # URL
+  uri              : "https://yifei1532.github.io/"
   email            : "yifeixia@stu.pku.edu.cn"
 
   # Academic websites
@@ -148,9 +148,11 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Yifei Xia"
+  links:
+    - "https://github.com/YiFei1532"
+    - "https://scholar.google.com/citations?user=AOECpMEAAAAJ&hl=en"
 
 
 # Analytics
