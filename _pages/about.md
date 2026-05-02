@@ -30,7 +30,7 @@ My research interests lie in **AI infrastructure**, especially **DiT post-train,
 
 - **[2024.09 - present]** Research Intern, Seed CV-AI Platform, ByteDance.
   - **[Seedance 1.0](https://arxiv.org/abs/2506.09113) post-training inference acceleration**: Designed and implemented the sparse attention solution for Seedance 1.0, enabling efficient long-video generation inference in production.
-  - **[Seedance 2.0](https://arxiv.org/abs/2604.14148) post-training inference acceleration**: Contributed to attention acceleration for Seedance 2.0, including sparse attention and quantization-based optimizations for post-training inference workloads.
+  - **[Seedance 2.0](https://arxiv.org/abs/2604.14148) post-training inference acceleration**: Contributed to post-training and inference acceleration for Seedance 2.0, including sparse attention and quantization-based optimizations.
 
 # 📝 Publications
 
