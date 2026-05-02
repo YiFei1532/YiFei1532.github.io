@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hetu logo</title>
+  <desc id="desc">A compact logo for the Hetu deep learning system.</desc>
+  <rect width="600" height="360" rx="28" fill="#f8fafb"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M115 245 C170 115, 260 115, 300 210 C340 305, 430 305, 485 115" stroke="#2f7f93" stroke-width="26"/>
+    <path d="M115 115 C170 245, 260 245, 300 150 C340 55, 430 55, 485 245" stroke="#52adc8" stroke-width="26"/>
+  </g>
+  <circle cx="115" cy="245" r="18" fill="#224b8d"/>
+  <circle cx="485" cy="115" r="18" fill="#224b8d"/>
+  <text x="300" y="325" text-anchor="middle" font-family="Trebuchet MS, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#263238">Hetu</text>
+</svg>
