@@ -82,13 +82,13 @@ My research interests lie in **AI infrastructure**, especially **DiT post-train,
 
 # 🎖 Honors and Awards
 
-* **Peking University Presidential Scholarship for Ph.D. Students, 2025** (**top 2%**)
+* **Peking University Presidential Scholarship, 2025** (**top 1.5%, highest honor for Ph.D. students at Peking University**)
 
-* **Peking University Presidential Scholarship for Ph.D. Students, 2024** (**top 2%**)
+* **Peking University Presidential Scholarship, 2024** (**top 1.5%, highest honor for Ph.D. students at Peking University**)
 
-* **China Institute of Electronics - Tencent Ph.D. Research Incentive Program, Hunyuan Foundation Model Special Track, 2024** (**100,000 RMB, only 17 recipients nationwide**)
+* **China Institute of Electronics - Tencent Ph.D. Research Incentive Program**, Hunyuan Foundation Model Special Track, 2024 (**100,000 RMB, only 17 recipients nationwide**)
 
-* **Best Paper Award at CCF National Database Conference NDBC, 2024**
+* **Best Paper** Award at CCF National Database Conference NDBC, 2024
 
 * Outstanding Graduate, Renmin University of China, 2024
 
