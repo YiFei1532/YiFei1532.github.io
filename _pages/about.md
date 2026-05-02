@@ -12,25 +12,21 @@ redirect_from:
 
 Hi! I'm Yifei Xia, a second-year Ph.D. student in the [School of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/) and a member of [DAIR Lab](https://pkudair.github.io/), advised by Prof. [Bin Cui](https://cuibinpku.github.io/). I received my B.Sc. degree in Computer Science and Technology from the Turing Experimental Class at [Renmin University of China](https://www.ruc.edu.cn/) in June 2024, where I was advised by Prof. [Feng Zhang](https://fengzhangcs.github.io/).
 
-My research interests lie in **AI infrastructure**, especially **DiT inference and serving**, **LLM inference and serving**, multi-modal training/inference systems, high-performance computing, and CPU-GPU heterogeneous architectures.
+My research interests lie in **AI infrastructure**, especially **DiT post-train, inference and serving**, **LLM inference and serving**, and multi-modal training/inference systems.
 
 **I am open to collaborations and discussions on efficient inference, serving systems, and AI infrastructure. Feel free to reach out!**
 
 # 📖 Educations
 
-* B.S. in Computer Science and Technology, Turing Experimental Class, Renmin University of China. 2020 - 2024.
+* B.S. in Computer Science and Technology, Turing Experimental Class, Renmin University of China. 2020 - 2024. Adviser: [Feng Zhang](https://fengzhangcs.github.io/)
 
-    Adviser: [Feng Zhang](https://fengzhangcs.github.io/)
-
-* Direct Ph.D. in Computer Science and Technology, Peking University. 2024 - present.
-
-    Adviser: [Bin Cui](https://cuibinpku.github.io/)
+* Ph.D. in Computer Science and Technology, Peking University. 2024 - present. Adviser: [Bin Cui](https://cuibinpku.github.io/)
 
 # 📝 Publications
 
 ## 2026
 
-- **[ICML]** **Yifei Xia**, Fangcheng Fu, Hao Yuan, Bin Cui, et al. "EchoAttention: Exploiting Token-Pair Redundancy and Frame-Block Similarity for Efficient Long Video Generation."
+- **[ICML]** **Yifei Xia**, Fangcheng Fu, Hao Yuan, Bin Cui, et al. "EchoAttention: Exploiting Token-Pair Redundancy and Frame-Block Similarity for Efficient Long Video Generation." (coming soon)
 
 ## 2025
 
@@ -86,13 +82,13 @@ My research interests lie in **AI infrastructure**, especially **DiT inference a
 
 # 🎖 Honors and Awards
 
-* Peking University Presidential Scholarship for Ph.D. Students, 2025
+* **Peking University Presidential Scholarship for Ph.D. Students, 2025** (**top 2%**)
 
-* Peking University Presidential Scholarship for Ph.D. Students, 2024
+* **Peking University Presidential Scholarship for Ph.D. Students, 2024** (**top 2%**)
 
-* China Institute of Electronics - Tencent Ph.D. Research Incentive Program, Hunyuan Foundation Model Special Track, 2024
+* **China Institute of Electronics - Tencent Ph.D. Research Incentive Program, Hunyuan Foundation Model Special Track, 2024** (**100,000 RMB, only 17 recipients nationwide**)
 
-* NDBC Best Paper, 2024
+* **Best Paper Award at CCF National Database Conference NDBC, 2024**
 
 * Outstanding Graduate, Renmin University of China, 2024
 
@@ -100,7 +96,7 @@ My research interests lie in **AI infrastructure**, especially **DiT inference a
 
 * PetroChina Scholarship, 2023
 
-* National Scholarship, 2022
+* **National Scholarship, 2022** (**top 1%**)
 
 * RUC-Huawei "Intelligent Base" Student Scholarship, 2022 and 2023
 
