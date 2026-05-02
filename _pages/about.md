@@ -28,15 +28,13 @@ My research interests lie in **AI infrastructure**, especially **DiT inference a
 
 # 📝 Publications
 
-## Preprints
-
-- **[arXiv]** **Yifei Xia**, Fangcheng Fu, Hao Yuan, Hanke Zhang, Xupeng Miao, Yijun Liu, Suhan Ling, Jie Jiang, Bin Cui. ["TridentServe: A Stage-level Serving System for Diffusion Pipelines."](https://arxiv.org/abs/2510.02838)
-
 ## 2026
 
 - **[ICML]** **Yifei Xia**, Fangcheng Fu, Hao Yuan, Bin Cui, et al. "EchoAttention: Exploiting Token-Pair Redundancy and Frame-Block Similarity for Efficient Long Video Generation."
 
 ## 2025
+
+- **[arXiv]** **Yifei Xia**, Fangcheng Fu, Hao Yuan, Hanke Zhang, Xupeng Miao, Yijun Liu, Suhan Ling, Jie Jiang, Bin Cui. ["TridentServe: A Stage-level Serving System for Diffusion Pipelines."](https://arxiv.org/abs/2510.02838)
 
 - **[ICCV]** **Yifei Xia**, Suhan Ling, Fangcheng Fu, Bin Cui, et al. ["Training-free and Adaptive Sparse Attention for Efficient Long Video Generation."](https://openaccess.thecvf.com/content/ICCV2025/html/Xia_Training-free_and_Adaptive_Sparse_Attention_for_Efficient_Long_Video_Generation_ICCV_2025_paper.html)
 
