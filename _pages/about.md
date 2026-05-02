@@ -14,6 +14,8 @@ Hi! I'm Yifei Xia, a second-year Ph.D. student in the [School of Computer Scienc
 
 I am the creator of [HetuDiT](https://github.com/PKU-DAIR/Hetu-DiT), an efficient and dynamic serving system for image and video generation models, and a developer of [Hetu](https://github.com/PKU-DAIR/Hetu), a high-performance distributed deep learning system for large-scale and automated parallel training, including LLM training workloads.
 
+During my internship at ByteDance, I have been deeply involved in post-training and inference acceleration for the Seedance 1.0 and Seedance 2.0 series. Several of my designs, including [AdaSpa](https://openaccess.thecvf.com/content/ICCV2025/html/Xia_Training-free_and_Adaptive_Sparse_Attention_for_Efficient_Long_Video_Generation_ICCV_2025_paper.html), have been deployed in production and widely used across business scenarios.
+
 My research interests lie in **AI infrastructure**, especially **DiT post-train, inference and serving**, **LLM inference and serving**, and multi-modal training/inference systems.
 
 **I am open to collaborations and discussions on efficient inference, serving systems, and AI infrastructure. Feel free to reach out!**
@@ -23,6 +25,12 @@ My research interests lie in **AI infrastructure**, especially **DiT post-train,
 * B.S. in Computer Science and Technology, Turing Experimental Class, Renmin University of China. 2020 - 2024. Adviser: [Feng Zhang](https://fengzhangcs.github.io/)
 
 * Ph.D. in Computer Science and Technology, Peking University. 2024 - present. Adviser: [Bin Cui](https://cuibinpku.github.io/)
+
+# 💻 Internships
+
+- **[2024.09 - present]** Research Intern, Seed CV-AI Platform, ByteDance.
+  - **Seedance 1.0 post-training inference acceleration**: Designed and implemented the sparse attention solution for Seedance 1.0, enabling efficient long-video generation inference in production.
+  - **Seedance 2.0 post-training inference acceleration**: Contributed to attention acceleration for Seedance 2.0, including sparse attention and quantization-based optimizations for post-training inference workloads.
 
 # 📝 Publications
 
@@ -103,10 +111,6 @@ My research interests lie in **AI infrastructure**, especially **DiT post-train,
 * **National Scholarship, 2022** (**top 1%**)
 
 * RUC-Huawei "Intelligent Base" Student Scholarship, 2022 and 2023
-
-# 💻 Internships
-
-- **[2024.09 - present]** Research Intern, Seed CV-AI Platform, ByteDance.
 
 <div style="width: 50%;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=JeaFjgFKbmu2Be_TMFmkDwDlgmfcXbwd0kq4eThvKPg&cl=ffffff&w=a"></script>
