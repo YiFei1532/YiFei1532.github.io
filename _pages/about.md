@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Yifei Xia, a direct Ph.D. student in the [School of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/) and a member of [DAIR Lab](https://pkudair.github.io/), advised by Prof. [Bin Cui](https://cuibinpku.github.io/). I received my B.Sc. degree in Computer Science and Technology from the Turing Experimental Class at [Renmin University of China](https://www.ruc.edu.cn/) in June 2024, where I was advised by Prof. [Feng Zhang](https://fengzhangcs.github.io/).
+Hi! I'm Yifei Xia, a second-year Ph.D. student in the [School of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/) and a member of [DAIR Lab](https://pkudair.github.io/), advised by Prof. [Bin Cui](https://cuibinpku.github.io/). I received my B.Sc. degree in Computer Science and Technology from the Turing Experimental Class at [Renmin University of China](https://www.ruc.edu.cn/) in June 2024, where I was advised by Prof. [Feng Zhang](https://fengzhangcs.github.io/).
 
 My research interests lie in **AI infrastructure**, especially **DiT inference and serving**, **LLM inference and serving**, multi-modal training/inference systems, high-performance computing, and CPU-GPU heterogeneous architectures.
 
@@ -107,5 +107,5 @@ My research interests lie in **AI infrastructure**, especially **DiT inference a
 - **[2024.09 - present]** Research Intern, Seed CV-AI Platform, ByteDance.
 
 <div style="width: 50%;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BwS695rr3ZhDJw0gHFHO7UFkAVh0sHoOsyBgIoW7Wzg&cl=ffffff&w=a"></script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=JeaFjgFKbmu2Be_TMFmkDwDlgmfcXbwd0kq4eThvKPg&cl=ffffff&w=a"></script>
 </div>
