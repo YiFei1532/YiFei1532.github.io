@@ -28,31 +28,35 @@ My research interests lie in **AI infrastructure**, especially **DiT inference a
 
 # 📝 Publications
 
+## Preprints
+
+- **[arXiv]** **Yifei Xia**, Fangcheng Fu, Hao Yuan, Hanke Zhang, Xupeng Miao, Yijun Liu, Suhan Ling, Jie Jiang, Bin Cui. ["TridentServe: A Stage-level Serving System for Diffusion Pipelines."](https://arxiv.org/abs/2510.02838)
+
 ## 2026
 
 - **[ICML]** **Yifei Xia**, Fangcheng Fu, Hao Yuan, Bin Cui, et al. "EchoAttention: Exploiting Token-Pair Redundancy and Frame-Block Similarity for Efficient Long Video Generation."
 
 ## 2025
 
-- **[ICCV]** **Yifei Xia**, Suhan Ling, Fangcheng Fu, Bin Cui, et al. "Training-free and Adaptive Sparse Attention for Efficient Long Video Generation."
+- **[ICCV]** **Yifei Xia**, Suhan Ling, Fangcheng Fu, Bin Cui, et al. ["Training-free and Adaptive Sparse Attention for Efficient Long Video Generation."](https://openaccess.thecvf.com/content/ICCV2025/html/Xia_Training-free_and_Adaptive_Sparse_Attention_for_Efficient_Long_Video_Generation_ICCV_2025_paper.html)
 
-- **[KDD]** Zheng Chen, Feng Zhang, **Yifei Xia**, Wentao Zhang, Junda Pan, Xiaoyong Du, et al. "CompressGNN: Accelerating Large-scale Graph Neural Network Training via Computation Reuse."
+- **[KDD]** Zheng Chen, Feng Zhang, **Yifei Xia**, Wentao Zhang, Xiaowei Zhu, Wenguang Chen, Xiaoyong Du. ["CompressGNN: Accelerating Graph Neural Network Training via Hierarchical Compression."](https://doi.org/10.1145/3711896.3736888)
 
 ## 2024
 
-- **[NeurIPS]** **Yifei Xia**, Fangcheng Fu, Wentao Zhang, Jiawei Jiang, Bin Cui. "Efficient Multi-task LLM Quantization and Serving for Multiple LoRA Adapters."
+- **[NeurIPS]** **Yifei Xia**, Fangcheng Fu, Wentao Zhang, Jiawei Jiang, Bin Cui. ["Efficient Multi-task LLM Quantization and Serving for Multiple LoRA Adapters."](https://proceedings.neurips.cc/paper_files/paper/2024/hash/747dc7c6566c74eb9a663bcd8d057c78-Abstract-Conference.html)
 
-- **[VLDBJ]** **Yifei Xia**, Feng Zhang, Qingyu Xu, Mingde Zhang, Bingsheng He, et al. "GPU-Based Butterfly Counting."
+- **[VLDBJ]** **Yifei Xia**, Feng Zhang, Qingyu Xu, Mingde Zhang, Bingsheng He, et al. ["GPU-Based Butterfly Counting."](https://doi.org/10.1007/s00778-024-00861-0)
 
 ## 2023
 
-- **[TPDS]** Yihua Hu, Feng Zhang, **Yifei Xia**, Zhiming Yao, Jidong Zhai, Xiaoyong Du, et al. "Enabling Efficient Random Access to Hierarchically-Compressed Data on Diverse GPU Platforms."
+- **[TPDS]** Yihua Hu, Feng Zhang, **Yifei Xia**, Zhiming Yao, Letian Zeng, Haipeng Ding, Zhewei Wei, Xiao Zhang, Jidong Zhai, Xiaoyong Du, Siqi Ma. ["Enabling Efficient Random Access to Hierarchically Compressed Text Data on Diverse GPU Platforms."](https://siqima.me/publications/GPU.pdf)
 
 # 🚀 Systems
 
 <div style="display: flex; gap: 20px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <div style="width: 200px; flex-shrink: 0; display: flex; flex-direction: column; align-items: center;">
-    <img src='images/hetudit-logo.svg' alt="HetuDiT" style="width: 100%; max-width: 200px;">
+    <img src='images/hetudit-logo.png' alt="HetuDiT" style="width: 100%; max-width: 200px;">
   </div>
   <div style="flex: 1; min-width: 0;">
     <h3 style="margin-top: 0;"><a href="https://github.com/PKU-DAIR/Hetu-DiT">HetuDiT</a> - An Efficient System for Diffusion Transformers</h3>
@@ -68,7 +72,7 @@ My research interests lie in **AI infrastructure**, especially **DiT inference a
 
 <div style="display: flex; gap: 20px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <div style="width: 200px; flex-shrink: 0; display: flex; flex-direction: column; align-items: center;">
-    <img src='images/hetu-logo.svg' alt="Hetu" style="width: 100%; max-width: 200px;">
+    <img src='images/hetu-logo.png' alt="Hetu" style="width: 100%; max-width: 200px;">
   </div>
   <div style="flex: 1; min-width: 0;">
     <h3 style="margin-top: 0;"><a href="https://github.com/PKU-DAIR/Hetu">Hetu</a> - A Deep Learning System</h3>
