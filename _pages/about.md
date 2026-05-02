@@ -12,6 +12,8 @@ redirect_from:
 
 Hi! I'm Yifei Xia, a second-year Ph.D. student in the [School of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/) and a member of [DAIR Lab](https://pkudair.github.io/), advised by Prof. [Bin Cui](https://cuibinpku.github.io/). I received my B.Sc. degree in Computer Science and Technology from the Turing Experimental Class at [Renmin University of China](https://www.ruc.edu.cn/) in June 2024, where I was advised by Prof. [Feng Zhang](https://fengzhangcs.github.io/).
 
+I am the creator of [HetuDiT](https://github.com/PKU-DAIR/Hetu-DiT), an efficient and dynamic serving system for image and video generation models, and a developer of [Hetu](https://github.com/PKU-DAIR/Hetu), a high-performance distributed deep learning system for large-scale and automated parallel training, including LLM training workloads.
+
 My research interests lie in **AI infrastructure**, especially **DiT post-train, inference and serving**, **LLM inference and serving**, and multi-modal training/inference systems.
 
 **I am open to collaborations and discussions on efficient inference, serving systems, and AI infrastructure. Feel free to reach out!**
@@ -53,13 +55,14 @@ My research interests lie in **AI infrastructure**, especially **DiT post-train,
     <img src='images/hetudit-logo.png' alt="HetuDiT" style="width: 100%; max-width: 200px;">
   </div>
   <div style="flex: 1; min-width: 0;">
-    <h3 style="margin-top: 0;"><a href="https://github.com/PKU-DAIR/Hetu-DiT">HetuDiT</a> - An Efficient System for Diffusion Transformers</h3>
-    <p><a href="https://github.com/PKU-DAIR/Hetu-DiT"><strong>GitHub</strong></a></p>
-    <p>An open-source system from PKU-DAIR for efficient Diffusion Transformer training and inference.</p>
+    <h3 style="margin-top: 0;"><a href="https://github.com/PKU-DAIR/Hetu-DiT">HetuDiT</a> - A Dynamic Serving System for Diffusion Transformers</h3>
+    <p><strong>Creator</strong> | <a href="https://github.com/PKU-DAIR/Hetu-DiT"><strong>GitHub</strong></a> | <a href="https://arxiv.org/abs/2510.02838"><strong>Paper</strong></a></p>
+    <p>HetuDiT is a stage-level, dynamically parallel serving system for Diffusion Transformers (DiTs). It targets real-world image and video generation serving workloads where requests differ in prompt length, resolution, frame count, and stage-level compute demand.</p>
     <ul>
-      <li><strong>DiT Optimization</strong>: System support for efficient Diffusion Transformer workloads</li>
-      <li><strong>Training and Inference</strong>: Infrastructure for improving end-to-end DiT efficiency</li>
-      <li><strong>Open Source</strong>: Released and maintained under the PKU-DAIR organization</li>
+      <li><strong>Stage-level scheduling</strong>: Profiles condition encoding, denoising, VAE decoding, and other stages separately, then rewrites execution plans on the fly.</li>
+      <li><strong>Dynamic parallelism</strong>: Assigns stage-specific batch sizes and parallelism strategies, including SP, CP, TP, and PP, for each request stage.</li>
+      <li><strong>Model support</strong>: Provides serving scripts for Stable Diffusion 3, CogVideoX 1.5-5B, Flux, and HunyuanVideo.</li>
+      <li><strong>Serving performance</strong>: README benchmarks report higher SLO attainment and lower mean/P95 latency than static pipeline-level serving on a 128x NVIDIA L20 cluster.</li>
     </ul>
   </div>
 </div>
@@ -69,13 +72,14 @@ My research interests lie in **AI infrastructure**, especially **DiT post-train,
     <img src='images/hetu-logo.png' alt="Hetu" style="width: 100%; max-width: 200px;">
   </div>
   <div style="flex: 1; min-width: 0;">
-    <h3 style="margin-top: 0;"><a href="https://github.com/PKU-DAIR/Hetu">Hetu</a> - A Deep Learning System</h3>
-    <p><a href="https://github.com/PKU-DAIR/Hetu"><strong>GitHub</strong></a></p>
-    <p>An open-source deep learning system from PKU-DAIR.</p>
+    <h3 style="margin-top: 0;"><a href="https://github.com/PKU-DAIR/Hetu">Hetu</a> - A Distributed Deep Learning System</h3>
+    <p><strong>Developer</strong> | <a href="https://github.com/PKU-DAIR/Hetu"><strong>GitHub</strong></a> | <a href="https://hetu-doc.readthedocs.io"><strong>Documentation</strong></a></p>
+    <p>Hetu is a high-performance distributed deep learning system developed by DAIR Lab at Peking University. It targets large-scale and automated distributed training, including trillion-parameter model training and modern LLM-related workloads.</p>
     <ul>
-      <li><strong>Deep Learning System</strong>: System-level support for large-scale model workloads</li>
-      <li><strong>Heterogeneous Computing</strong>: Infrastructure-oriented optimization for modern hardware</li>
-      <li><strong>Research Platform</strong>: A foundation for DAIR Lab system research</li>
+      <li><strong>Parallel training</strong>: Supports multiple training protocols and communication architectures, including data/model/pipeline parallelism, parameter server, and AllReduce.</li>
+      <li><strong>Large-scale workloads</strong>: Designed for giant models and large-scale training workloads across distributed GPU clusters.</li>
+      <li><strong>Research coverage</strong>: Serves as a platform for system research across Transformer/LLM, MoE, embedding, diffusion, GNN, heterogeneous-resource, kernel, and memory-management workloads.</li>
+      <li><strong>Open ecosystem</strong>: Provides documentation, examples, and an Apache-2.0 open-source codebase maintained under PKU-DAIR.</li>
     </ul>
   </div>
 </div>
